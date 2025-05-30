@@ -24,6 +24,16 @@ This script allows you to generate responses from the **Stanford Alpaca** model 
 
 1. **Install llama.cpp**
 
+Citation:
+@article{shafee2024evaluation,
+  title={Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness},
+  author={Shafee, Samaneh and Bessani, Alysson and Ferreira, Pedro M},
+  journal={Expert Systems with Applications},
+  pages={125509},
+  year={2024},
+  publisher={Elsevier}
+}
+
 Clone and compile the [llama.cpp](https://github.com/ggerganov/llama.cpp) repo:
 ```bash
 git clone https://github.com/ggerganov/llama.cpp
