@@ -1,4 +1,4 @@
-# Intercat with LLM-based chatbots
+![image](https://github.com/user-attachments/assets/68351c36-688b-4482-9657-de8777a5967b)# Intercat with LLM-based chatbots
 input.txt              ← Input prompts (one per line)
 output-*.csv           ← Output (original prompt + generated text)
 models/                ← Place your .bin / .gguf model files here
@@ -30,3 +30,15 @@ Clone and compile the [llama.cpp](https://github.com/ggerganov/llama.cpp) repo:
 git clone https://github.com/ggerganov/llama.cpp
 cd llama.cpp
 make
+
+Citation:
+@article{shafee2024evaluation,
+  title={Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness},
+  author={Shafee, Samaneh and Bessani, Alysson and Ferreira, Pedro M},
+  journal={Expert Systems with Applications},
+  pages={125509},
+  year={2024},
+  publisher={Elsevier}
+}
+
+
