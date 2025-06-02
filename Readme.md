@@ -42,6 +42,23 @@ Output File: output-vicuna-13b-4bit.csv — Each row contains a [Prompt, Respons
 
 ⚙️ Requirements
 Install llama.cpp
+******************************************************************************************************************************************************************
+🦅 Falcon 7B Instruct Batch Generation (via HuggingFace Transformers)
+
+This script uses the Falcon-7B-Instruct model from TII UAE through the HuggingFace transformers pipeline to generate responses for each prompt in an input text file. It supports fast local inference using GPU with bfloat16 precision.
+
+📥 Input & Output
+
+Input File: input.txt — Each line is treated as a separate prompt.
+
+Output File: output-7B.csv — Each row contains a [Prompt, Response] pair.
+
+⚙️ Requirements
+
+Install Required Packages
+pip install transformers accelerate
+
+****************************************************************************************************************************************************************
 
 Citation:
 @article{shafee2024evaluation,
