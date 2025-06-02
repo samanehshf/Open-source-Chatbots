@@ -16,7 +16,8 @@ This script uses the official `gpt4all` Python package to load a local `.bin` mo
 You can install the GPT4All Python interface with:
 ```bash
 pip install gpt4all
-****************************************************************************************************************************************************************# 🦙 Stanford Alpaca Batch Generation (via llama.cpp)
+****************************************************************************************************************************************************************
+ 🦙 Stanford Alpaca Batch Generation (via llama.cpp)
 
 This script allows you to generate responses from the **Stanford Alpaca** model or any compatible `.gguf` file using the `llama.cpp` backend. Input prompts are read from `input.txt`, and generated completions are saved in `output-alpaca.csv`.
 
@@ -30,6 +31,17 @@ Clone and compile the [llama.cpp](https://github.com/ggerganov/llama.cpp) repo:
 git clone https://github.com/ggerganov/llama.cpp
 cd llama.cpp
 make
+**************************************************************************************************************************************************************
+🦙 Vicuna 13B Batch Generation (via llama.cpp)
+This script uses the Vicuna 13B 4-bit quantized model through the llama.cpp backend to generate answers for each prompt provided in an input text file. It's optimized for local inference on consumer GPUs or CPUs using quantized .bin files.
+
+📥 Input & Output
+Input File: input.txt — Each line is treated as a new question.
+
+Output File: output-vicuna-13b-4bit.csv — Each row contains a [Prompt, Response] pair.
+
+⚙️ Requirements
+Install llama.cpp
 
 Citation:
 @article{shafee2024evaluation,
