@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/68351c36-688b-4482-9657-de8777a5967b)# Intercat with LLM-based chatbots
+# Intercat with LLM-based chatbots
 input.txt              ← Input prompts (one per line)
 output-*.csv           ← Output (original prompt + generated text)
 models/                ← Place your .bin / .gguf model files here
