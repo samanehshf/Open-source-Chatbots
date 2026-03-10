@@ -7,7 +7,7 @@ A study on using LLM-based chatbots for cybersecurity threat analysis from OSINT
 
 For detailed instructions on how to run the experiments, see the [user guide](user_guide.md).
 
-The dataset used in the paper is available at: [input](dataset/input.txt)
+The dataset used in the paper is available at: [input](dataset/input.txt).
 
 
 ## Citation
