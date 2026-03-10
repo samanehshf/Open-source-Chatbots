@@ -2,17 +2,17 @@
 
 A study on using LLM-based chatbots for cybersecurity threat analysis from OSINT data, focusing on threat classification and entity extraction performance.
 
-For detailed instructions on how to run the experiments, see the [user guide](user_guide.md).
 
 ## Documentation
 
-The dataset used in the paper is available at:
+For detailed instructions on how to run the experiments, see the [user guide](user_guide.md).
 
-[input](dataset/input.txt)
+The dataset used in the paper is available at: [input](dataset/input.txt)
 
-If you use this code in your research, please cite:
 
 ## Citation
+
+If you use this code in your research, please cite:
 
 Citation:
 @article{shafee2024evaluation,
