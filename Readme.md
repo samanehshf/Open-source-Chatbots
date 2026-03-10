@@ -14,14 +14,13 @@ The dataset used in the paper is available at: [input](dataset/input.txt).
 
 If you use this code in your research, please cite:
 
-Citation:
-@article{shafee2024evaluation,
+@article{shafee2025evaluation,
   title={Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness},
   author={Shafee, Samaneh and Bessani, Alysson and Ferreira, Pedro M},
   journal={Expert Systems with Applications},
+  volume={261},
   pages={125509},
-  year={2024},
+  year={2025},
   publisher={Elsevier}
 }
-
 
