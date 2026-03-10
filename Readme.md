@@ -1,4 +1,4 @@
-For detailed instructions on how to run the experiments, see the  [usage_guide](usage_guide.md)
+For detailed instructions on how to run the experiments, see the  [user_guide](user_guide.md)
 
 The dataset used in the paper is available at:
 [input](dataset/input.txt).
