@@ -1,14 +1,15 @@
-Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness
+**Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness**
 
-
+A study on using LLM-based chatbots for cybersecurity threat analysis from OSINT data, focusing on threat classification and entity extraction performance.
 For detailed instructions on how to run the experiments, see the  [user_guide](user_guide.md)
 
+**Documentation**
 The dataset used in the paper is available at:
 [input](dataset/input.txt).
 
 If you use this code in your research, please cite:
 
-
+**Citation**
 Citation:
 @article{shafee2024evaluation,
   title={Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness},
