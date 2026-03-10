@@ -31279,5 +31279,3 @@ Is the sentence 'threatmeter rhel 6 samba rhsa-2018:1860' related to cyber secur
 Is the sentence 'oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation' related to cyber security? Just answer yes or no.
 Is the sentence 'rhel 6 kernel rhsa-2018:2164 spectre nessus plugin id 111001 with high severity synopsis the remote red hat' related to cyber security? Just answer yes or no.
 Is the sentence 'rt _odisseus torbrowser firefox uaf use-after-free fbi s exploit code here reported cwe n a cve n a local no' related to cyber security? Just answer yes or no.
-
-
