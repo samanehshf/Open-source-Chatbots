@@ -1,3 +1,6 @@
+Evaluation of LLM-based chatbots for OSINT-based Cyber Threat Awareness
+
+
 For detailed instructions on how to run the experiments, see the  [user_guide](user_guide.md)
 
 The dataset used in the paper is available at:
